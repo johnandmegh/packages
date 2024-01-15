@@ -1,6 +1,7 @@
 <PISI>
     <Source>
         <Name>protonmail-bridge</Name>
+        <Homepage>https://proton.me/mail/bridge</Homepage>
         <Packager>
             <Name>John Kizer</Name>
             <Email>john.kizer@proton.me</Email>
