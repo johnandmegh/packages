@@ -2,8 +2,8 @@
     <Source>
         <Name>protonmail-bridge</Name>
         <Packager>
-            <Name>Reilly Brogan</Name>
-            <Email>solus@reillybrogan.com</Email>
+            <Name>John Kizer</Name>
+            <Email>john.kizer@proton.me</Email>
         </Packager>
         <License>GPL-3.0-or-later</License>
         <PartOf>network.mail</PartOf>
@@ -27,12 +27,12 @@
         </Files>
     </Package>
     <History>
-        <Update release="15">
-            <Date>2023-12-15</Date>
-            <Version>3.6.1</Version>
+        <Update release="16">
+            <Date>2024-01-15</Date>
+            <Version>3.7.1</Version>
             <Comment>Packaging update</Comment>
-            <Name>Reilly Brogan</Name>
-            <Email>solus@reillybrogan.com</Email>
+            <Name>John Kizer</Name>
+            <Email>john.kizer@proton.me</Email>
         </Update>
     </History>
 </PISI>
